@@ -4,8 +4,7 @@ public class MergeSort {
     public static void main(String... args) {
         System.out.println("Merge sort");
 
-        // int[] unsortedArray = {4, 1, 3, -2, 2, 5, 8, 1, -12, 0};
-        int[] unsortedArray = {4, 1, 3, 2, 5};
+        int[] unsortedArray = {4, 1, 3, -2, 2, 5, 8, 1, -12, 0};
 
         System.out.println("Array before sort");
         showArray(unsortedArray);
